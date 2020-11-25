@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VLMS</string>
+    <string name="app_name">Constructo</string>
     <string name="title_activity_test">TestActivity</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
